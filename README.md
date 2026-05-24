@@ -147,4 +147,4 @@ legal-essay-tutor/
 
 ---
 
-*本工具由台灣法律教育工作者製作，使用 Claude（Anthropic）作為 AI 引擎。*
+*本工具由台灣法學基金會執行長錢世傑製作，使用 Claude（Anthropic）作為 AI 引擎。*
